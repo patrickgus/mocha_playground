@@ -1,4 +1,4 @@
-const sort = require("../index");
+const sort = require("../sort");
 const expect = require("chai").expect;
 
 describe("Sort function", () => {
