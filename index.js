@@ -19,4 +19,5 @@ function sort(list) {
   return list;
 }
 
-(module.exports = divide), sort;
+module.exports = divide;
+// module.exports = sort;
